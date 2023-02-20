@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ozoemenam-dev
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning javascript and python 
-- 💞️ I’m looking to collaborate on backend
+- 👀 I’m interested in Backend development and Cloud Engineering
+- 🌱 I’m currently learning javascript, python and AWS 
+- 💞️ I’m looking to collaborate on backend and cloud engineering
 - 📫 How to reach me okparachidiebere69@gmail.com
 
 <!---
