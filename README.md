@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ozoemenam-dev
+- 👋 Hi, I am Okapra Chidiebeere 
 - 👀 I’m interested in Backend development and Cloud Engineering
 - 🌱 I’m currently learning javascript, python and AWS 
 - 💞️ I’m looking to collaborate on backend and cloud engineering
